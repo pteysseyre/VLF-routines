@@ -2,8 +2,6 @@
 This repository contains short functions that can be used to do basic operations on VLF data
 
 
-# Example
-
 ## Reading files
 
 To read Narrowband, the `read_Narrowband` function can be called. To do so, you need:
